@@ -32,6 +32,13 @@
 </head>
 
 <body id="page-top" class="index">
+    
+    <div
+  class="fb-like"
+  data-share="true"
+  data-width="450"
+  data-show-faces="true">
+</div>
 
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
@@ -534,6 +541,7 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/freelancer.js"></script>
+    <script src="js/fbsdk.js"></script>
 
 </body>
 
